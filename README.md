@@ -8,6 +8,8 @@
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6J3G2ZY3PG4JS&lc=RU&item_name=test_gh&item_number=555&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 
+** Donate: **
+<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6J3G2ZY3PG4JS&lc=RU&item_name=test_gh&item_number=555&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'>Donate here</a>
 
 test_dnt
 ========
