@@ -14,3 +14,14 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6J3G2ZY3PG4JS&lc=R
 test_dnt
 ========
 
+We use this library on GitHub when rendering your README or any other
+rich text file.
+
+Markups
+-------
+
+* [.org](http://orgmode.org/) -- `gem install org-ruby`
+
+### Flycut
+
+<img src="http://a3.mzstatic.com/us/r1000/047/Purple/fb/53/f2/mzi.mcaxwyjm.175x175-75.png" />
