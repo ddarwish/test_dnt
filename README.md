@@ -11,6 +11,11 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6J3G2ZY3PG4JS&lc=R
 **Donate:**
 <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6J3G2ZY3PG4JS&lc=RU&item_name=test_gh&item_number=555&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'>Donate here</a>
 
+Donate
+------
+<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=6J3G2ZY3PG4JS&lc=RU&item_name=JTAG%2020%20to%2010%20pin%20adapter&item_number=JT%2dA%2d2010&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted'><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" /></a>
+
+
 test_dnt
 ========
 
@@ -25,3 +30,4 @@ Markups
 ### Flycut
 
 <img src="http://a3.mzstatic.com/us/r1000/047/Purple/fb/53/f2/mzi.mcaxwyjm.175x175-75.png" />
+
